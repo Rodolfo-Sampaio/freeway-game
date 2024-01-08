@@ -15,6 +15,9 @@ Recriamos um jogo clássico onde um personagem tenta atravessar uma rodovia com 
 
 
 
+
+
+
 <br>
 
 ##  Jogue o 🚩[Freeway Game](https://freeway-game-steel.vercel.app/)! 👀
